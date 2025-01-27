@@ -1,2 +1,2 @@
-# Building a task app 
-## Title: ChoreChanpion
+# Creating a To-do task app 
+## Title: ChoreChampion
