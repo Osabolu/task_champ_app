@@ -1,1 +1,2 @@
-# task_champ_app
+# Building a task app 
+## Title: ChoreChanpion
